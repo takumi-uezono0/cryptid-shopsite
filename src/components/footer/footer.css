@@ -1,0 +1,72 @@
+.FooterFrame {
+  background-color: #212b3a;
+  width: 100%;
+  height: 582px;
+  bottom: 0; /*下に固定*/
+  float: left; /*横並び*/
+}
+
+.shopName {
+  display: flex;
+  padding-right: 70px;
+  padding-top: 100px;
+  color: #dbd7d7;
+  flex-direction: column;
+  text-align: center;
+}
+
+.shopName #smallName {
+  font-size: 12px;
+}
+
+.shopName #Name {
+  font-family: "ZCOOL XiaoWei";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+}
+.linkA {
+  width: 330px;
+  padding-left: 50px;
+  display: flex;
+  font-family: "Zen Antique";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+
+  color: #ffffff;
+
+  flex-direction: column;
+  text-align: left;
+}
+
+.linkA a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.linkB {
+  /* padding-left: auto; */
+  padding-right: 62px;
+  flex-direction: column;
+  text-align: left;
+
+  font-family: "ZCOOL XiaoWei";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+
+  color: #ffffff;
+}
+
+.linkB #recruitTitle {
+  font-family: "Zen Antique";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+
+  background: #c19e61;
+}
