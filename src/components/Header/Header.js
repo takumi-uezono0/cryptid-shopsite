@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 
-const Header = () => {
+const Header = () => { 
   return (
     <div>
       <div className="Logo">
@@ -17,6 +17,7 @@ const Header = () => {
         <div>
           <p id="line"></p>
         </div>
+        <p id="color1"></p>
         <nav>
           <ul>
             <li><a href=" ">検索</a></li>
