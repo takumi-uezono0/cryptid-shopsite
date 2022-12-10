@@ -23,15 +23,15 @@ const Footer = () => {
         </div>
         <div className="recruit">
           <div id="recruitTitle">採用情報</div>
-          <div id="recruitA">
-            <a href="#">募集要項</a>
-          </div>
-          <div id="recruitAddress">
-            <a href="#">
+          <a href="#">
+            <div id="recruitA">募集要項</div>
+          </a>
+          <a href="#">
+            <div id="recruitAddress">
               <div id="yubin">〒459-5540</div>
               <div id="jusyo">桃源郷6丁目　地獄横丁5-3</div>
-            </a>
-          </div>
+            </div>
+          </a>
           <div id="recruitAddressOption">
             ▷きさらぎ駅前北東に看板が目印です！
           </div>
