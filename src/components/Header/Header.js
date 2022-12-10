@@ -17,7 +17,6 @@ const Header = () => {
         <div>
           <p id="line"></p>
         </div>
-        <p id="color1"></p>
         <nav>
           <ul>
             <li><a href=" ">検索</a></li>
