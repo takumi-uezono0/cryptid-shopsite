@@ -1,0 +1,25 @@
+.NewsFrame {
+  width: 1440px;
+  height: 829px;
+  background-image: url("../../../images/p0145_m 2.png");
+  background-repeat: no-repeat;
+}
+.NewsList {
+  padding-left: 220px;
+}
+
+.NewsFrame #title {
+  font-family: "Yuji Syuku";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 58px;
+
+  padding-top: 40px;
+}
+
+.NewsFrame #recruit {
+  width: 1000px;
+  height: 233px;
+  background-image: url("../../../images/Rectangle 3.png");
+}
