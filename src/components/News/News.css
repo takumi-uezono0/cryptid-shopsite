@@ -17,9 +17,104 @@
 
   padding-top: 40px;
 }
-
-.NewsFrame #recruit {
+/* -------------------------------------- */
+.Recruit #recruit {
   width: 1000px;
   height: 233px;
   background-image: url("../../../images/Rectangle 3.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  display: flex;
+}
+
+.Recruit #recruitBack {
+  background-color: rgba(217, 217, 217, 0.5);
+
+  width: 220px;
+  height: 55px;
+  margin: auto;
+}
+
+.Recruit a {
+  font-family: "Zen Kaku Gothic Antique";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 46px;
+
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+/* --------------------------------- */
+.Credit {
+  width: 1000px;
+  height: 233px;
+  background: #445458;
+  border: 1px solid #ffd53f;
+
+  margin-top: 120px;
+}
+.Credit a {
+  text-decoration: none;
+}
+
+.shopping {
+  margin-top: 45px;
+  margin-left: 38px;
+  width: 280px;
+  height: 120px;
+
+  float: left;
+}
+
+.shopping #shopping {
+  font-family: "Zen Old Mincho";
+  font-style: normal;
+  font-size: 48px;
+
+  color: #000000;
+}
+
+.bunkatu {
+  weight: 340px;
+  height: 185px;
+  margin-top: 32px;
+  margin-left: 80px;
+
+  float: left;
+}
+
+.bunkatu #setumei {
+  font-family: "Zen Old Mincho";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 46px;
+
+  color: #ffffff;
+}
+
+.bunkatu #bunkatu {
+  font-family: "Zen Old Mincho";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 128px;
+  line-height: 185px;
+
+  color: #ffffff;
+}
+
+.bunkatu sub {
+  float: right;
+  font-family: "Zen Old Mincho";
+  font-size: 32px;
+  color: #ffffff;
+}
+
+.Credit img {
+  weight: 197px;
+  height: auto;
+  margin-top: 92px;
 }
