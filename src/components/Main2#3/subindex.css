@@ -1,15 +1,39 @@
 
 
 .color {
-    background: url("画像")
+    background: url("./images/p0145_m.jpg");
+    background-size: cover;
+    width: auto;
+    height: 1500px;
+    border: 2px solid;
+    color: #493C3C;
+    font-size: 5px;
+    font-family: Inter;
+    text-align: center;
 }
-    p{
+
+
+    p{ 
     font-size: 20apx;
     color: #493C3C;
     font-family: Inter;
     text-align: center;
-    
-
-
 }
+
+#text1, #text2, #text3{
+    font-size: 20px;
+    color: #493C3C;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 0.09;
+}
+
+
+{/*}.div{
+    font-size: 10px;
+    color: #493C3C;
+    font-family: Inter;
+    text-align: center;
+
+}*/}
 

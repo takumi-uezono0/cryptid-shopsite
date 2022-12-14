@@ -6,10 +6,10 @@ import Index from "./components/Main2#3/index";
 function App() {
   return (
     <div>
-      <Header />
+      {/*<Header />*/}
       <Index />
-      <Search />
-      <Footer />
+      {/*<Search />*/}
+      {/*<Footer />*/}
     </div>
   );
 }
