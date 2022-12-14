@@ -1,0 +1,42 @@
+*{
+    list-style: none;
+}
+
+img {
+    width: 100%;
+}
+
+ul{
+    width: 600px;
+    margin: 50px;
+    margin: 50px auto 0;
+}
+
+.slick-prev::before,
+.slick-next::before{
+    color: black!important;
+}
+
+
+
+
+
+
+
+.Introduction{   
+    font-size: 20px;
+    color: #493C3C;
+    text-align: center;
+}
+
+.Support{
+    font-size: 20px;
+    color: #493C3C;
+    text-align: center;        
+}
+
+.MedicalCheck{
+    font-size: 20px;
+    color: #493C3C;
+    text-align: center;
+}
