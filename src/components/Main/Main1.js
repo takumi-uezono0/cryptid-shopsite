@@ -22,8 +22,8 @@ const Main = () => {
         
             
             <div className = "MainPage">
-                <ul className = "slider"> 
-                    <img src={Image1}/> 
+            {/*    <ul className = "slider"> 
+                  <img src={Image1}/> 
                     <img src={Wakka}/>
                     <img src={Ynkm}/>
                     <img src={Zoro}/>
@@ -31,7 +31,7 @@ const Main = () => {
                 </ul> 
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
                 <script src="slick.min.js"></script>
-                <script src="sla.js"></script>
+                 <script src="sla.js"></script>*/}
                 
                 
                
