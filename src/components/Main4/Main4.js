@@ -22,7 +22,7 @@ return (
                             <a href="#"><img src={List1}/></a>
                                 <div className="imageList1Comment">
                                     <p><strong>妖精</strong>   ¥1,690,000- </p>
-                                    <small>シャイな為画像を掲載しておりません。<br></br>
+                                    <small>シャイな,為画像を掲載しておりません。<br></br>
                                         確認の際は直接店舗へお越しください。</small>
                                 </div>
                         </div>
