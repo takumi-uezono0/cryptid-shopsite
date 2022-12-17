@@ -8,12 +8,11 @@
   background-repeat: no-repeat;
 }
 .Logo p1 {
-  color: #7C3232;
+  color: #7c3232;
   font-size: 32px;
 }
 .Logo p2 {
-  /*padding: 189px;*/
-  color: #7C3232;
+  color: #7c3232;
   font-style: normal;
   font-family: "ZCOOL XiaoWei";
   font-size: 250px;
@@ -21,48 +20,27 @@
   line-height: 250px;
   letter-spacing: 0em;
   display: flex;
-  /*justify-content: center;*/
 }
 #h {
   padding-top: 160px;
   padding-left: 208px;
 }
-/*#Tel {
-  display: inline;
-  font-size: 30px;
-  font-weight: 400;
-  line-height: 43px;
-  font-family: "Zen Old Mincho";
-  font-style: normal;
-  font-size: 20px;
-  line-height: 29px;
 
-   color: #863030; 
-}
-#Tel、 h2 {
-  width: 235px;
-  height: 30px;
-  padding-top: 571px;
-  padding-left: 934px;
-  margin-top: 571px;
-  padding-left: 934px;
-}*/
 p3 {
-  color: #7C3232;
-  /*padding-top: 600px;*/
+  color: #7c3232;
   padding-left: 934px;
   font-size: 30px;
 }
 p4 {
-  color: #7C3232;
+  color: #7c3232;
   font-size: 35px;
 }
 #Tel {
   padding-top: 20px;
 }
 #line {
-  border-top: 1px solid #442C1F;
-  border-bottom: 1px solid #4B3939;
+  border-top: 1px solid #442c1f;
+  border-bottom: 1px solid #4b3939;
   width: 1439px;
   height: 1%;
 }
@@ -70,15 +48,16 @@ nav {
   clear: both;
   margin-bottom: 8px;
 }
-nav ul, nav li {
+nav ul,
+nav li {
   margin: -1px;
   padding: 0;
 }
-nav li, nav a {
+nav li,
+nav a {
   display: block;
 }
 nav ul {
-  /*border: 1px solid #ccc;*/
   overflow: hidden;
 }
 nav li {
@@ -100,11 +79,12 @@ nav a {
   font-size: 24px;
   font-weight: 400px;
 }
-nav a:link, nav a:visited {
+nav a:link,
+nav a:visited {
   color: #ffffff;
   background-color: #863030;
-} 
+}
 nav a:hover {
   color: #ffffff;
-  background-color: #442D2D;
+  background-color: #442d2d;
 }
