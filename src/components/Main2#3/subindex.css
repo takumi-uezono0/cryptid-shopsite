@@ -10,7 +10,7 @@
     font-size: 5px;
     font-family: Inter;
     margin: 0 auto;
-    /*text-align: center;*/
+    
 }
 
     p{ 
@@ -29,8 +29,6 @@
 }
 #p2{
    background: url("../../../images/photo1.png");
-   /* margin-left: 100px;
-    margin-top: 300px;*/
     margin-left: 390px;
     width: 660px;
     height: 134px;
@@ -46,8 +44,6 @@
 }
 #p4{
     background: url("../../../images/photo2.png");
-    /* margin-left: 100px;
-     margin-top: 300px;*/
      margin-left: 390px;
      width: 660px;
      height: 134px;
@@ -66,8 +62,6 @@
 
 #p6{
     background: url("../../../images/photo3.png");
-    /* margin-left: 100px;
-     margin-top: 300px;*/
      margin-left: 390px;
      width: 660px;
      height: 133px;
