@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
       </div>
       <div id="copyRight">
-        ©︎copyright：2022 MINAMI,KOUHEI,TAKUMI
+        ©︎copyright：2022 MINAMI,KOUHEI,TAKUMI,KOUHEI
         <a href="https://github.com/takumi-uezono0/cryptid-shopsite">
           <button className="github"></button>
         </a>
