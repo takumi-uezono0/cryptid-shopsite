@@ -1,0 +1,17 @@
+.Main1Frame{
+    
+background: linear-gradient(180deg, rgba(80, 33, 6, 0.54) 66.37%, rgba(255, 255, 255, 0) 108.6%);
+backdrop-filter: blur(2px);
+
+width: 1440px;
+height: 780px;
+left: -1px;
+top: 606px;
+}
+.BigPublicity{
+    text-align: center;
+}
+.BPComment{
+    font-size: 40px;
+    font-family: "Zen Antique";
+}
