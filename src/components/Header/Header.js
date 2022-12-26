@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 
-const Header = () => { 
+const Header = () => {
   return (
     <div>
       <div className="Logo">
@@ -19,10 +19,18 @@ const Header = () => {
         </div>
         <nav>
           <ul>
-            <li><a href=" ">検索</a></li>
-            <li><a href=" ">お気に入り</a></li>
-            <li><a href=" ">ABOUT</a></li>
-            <li><a href=" ">MENU</a></li>
+            <li>
+              <a href=" ">検索</a>
+            </li>
+            <li>
+              <a href=" ">お気に入り</a>
+            </li>
+            <li>
+              <a href=" ">ABOUT</a>
+            </li>
+            <li>
+              <a href=" ">MENU</a>
+            </li>
           </ul>
         </nav>
       </div>
