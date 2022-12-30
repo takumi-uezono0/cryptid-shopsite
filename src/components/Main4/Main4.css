@@ -1,82 +1,72 @@
-.main4Frame{
-    position: relative;
-    background-image: url(images/Rectangle\ 8.png);
-    width: 1440px;
-    height: 554.63px;
-    z-index: 1;
+.main4Frame {
+  position: relative;
+  background-image: url(images/Rectangle\ 8.png);
+  width: 100%;
+  height: 554.63px;
+  z-index: 1;
 }
-.NewArrival{
-    position: relative;
-    top: 15px;
-    text-align: center; 
-    z-index: 2;   
+.NewArrival img {
+  padding-left: 30em;
+  padding-top: 15px;
 }
-.imageFrameset{
-    position: relative;
-    top: -150px;
-    display: flex;
-    z-index: 2;
-      
-}  
+.imageFrameset {
+  position: relative;
+  top: -150px;
+  display: flex;
+  z-index: 2;
+}
 
-.imageFrame1{
-  
+.imageFrame1 {
 }
-.imageFrame2{
-   margin-left: -190px; 
-
+.imageFrame2 {
+  margin-left: -190px;
 }
-.imageFrame3{
-    margin-left: -190px; 
-   
+.imageFrame3 {
+  margin-left: -190px;
 }
-.imageList1{
-    position: relative;
-    z-index: 3;
-    top: -425px;
-    left: 180px;
-  
+.imageList1 {
+  position: relative;
+  z-index: 3;
+  top: -425px;
+  left: 180px;
 }
-.imageList1Comment{
-    position: relative;
-    top: 10px;
-    left: -20px;
-    font-family: "Zen Antique";
-    font-size: 30px;
+.imageList1Comment {
+  position: relative;
+  top: 10px;
+  left: -20px;
+  font-family: "Zen Antique";
+  font-size: 30px;
 }
 .imageList1Comment > small {
-    position: relative;
-    font-size: 17px;
-    left: -20px;
-    top: -40px;
-    color: #FFFFFF;
-    
+  position: relative;
+  font-size: 17px;
+  left: -20px;
+  top: -40px;
+  color: #ffffff;
 }
-.imageList2{
-    position: relative;
-    z-index: 3;
-    top: -428px;
-    left: 198px;
-    
+.imageList2 {
+  position: relative;
+  z-index: 3;
+  top: -428px;
+  left: 198px;
 }
-.imageList2Comment{
-    position: relative;
-    top: 10px;
-    font-family: "Zen Antique";
-    font-size: 30px;
-    left: -20px;
+.imageList2Comment {
+  position: relative;
+  top: 10px;
+  font-family: "Zen Antique";
+  font-size: 30px;
+  left: -20px;
 }
-.imageList3{
-    position: relative;
-    z-index: 3;
-    top: -428px;
-    left: 198px;
-    
+.imageList3 {
+  position: relative;
+  z-index: 3;
+  top: -428px;
+  left: 198px;
 }
-.imageList3Comment{
-    position: relative;
-    top: 10px;
-    left: -50px;
-    font-family: "Zen Antique";
-    font-size: 30px;
+.imageList3Comment {
+  position: relative;
+  top: 10px;
+  left: -50px;
+  font-family: "Zen Antique";
+  font-size: 30px;
 }
