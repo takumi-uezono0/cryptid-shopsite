@@ -1,4 +1,5 @@
 
+
 import React from "react";
 import"./subindex.css";
 
@@ -57,3 +58,4 @@ const Main2 = () => {
     );
 }
 export default Main2
+
