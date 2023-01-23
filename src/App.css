@@ -1,0 +1,13 @@
+.NotFoundPage {
+  font-family: "Zen Antique";
+  background: url("../images/Rectangle 40.png");
+  color: #7c3232;
+  font-style: normal;
+  font-family: "ZCOOL XiaoWei";
+  font-size: 100px;
+  text-align: center;
+  font-weight: 400;
+  line-height: 250px;
+  letter-spacing: 0em;
+  display: flex;
+}
